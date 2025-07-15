@@ -33,7 +33,7 @@ json
   "height": 1.7
 }
 
-Response:
+**Response::**
 ```json
 {
   "bmi": "22.86",
