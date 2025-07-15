@@ -78,7 +78,7 @@ npm run dev
 ## Preview
 
 Postman Test	Struktur Folder
-<img src="assets/post_request.PNG" width="300"/>	<img src="assets/project_structure.PNG" width="300"/>
+![Preview](assets/post_request.PNG) 
 
 
 “Don’t just build code — build systems that feel alive.”
