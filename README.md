@@ -27,7 +27,7 @@ Built with precision, modular architecture, and a touch of elegance
 ### POST `/api/bmi`
 
 **Request Body (JSON):**
-json
+```json
 {
   "weight": 70,
   "height": 1.7
