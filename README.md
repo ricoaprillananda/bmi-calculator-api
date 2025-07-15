@@ -75,9 +75,6 @@ npm run dev
 
 ---
 
-
-“Don’t just build code — build systems that feel alive.”
-
 ## Built By
 
 Coded with elegance, clarity, and intention 🍃:
@@ -85,3 +82,4 @@ Coded with elegance, clarity, and intention 🍃:
 - **Rico Aprilla Nanda**  
   [GitHub](https://github.com/ricoaprillananda) ・ [LinkedIn](https://www.linkedin.com/in/rico-aprilla-n-3335a7251)
 
+**“Don’t just build code — build systems that feel alive.”**
