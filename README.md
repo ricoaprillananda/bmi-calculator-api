@@ -52,33 +52,28 @@ Built with precision, modular architecture, and a touch of elegance
 ## Run Locally
 
 1.Clone repo:
-
-```bash
 git clone https://github.com/ricoaprillananda/bmi-calculator-api.git
 cd bmi-calculator-api
 
-2.Install dependencies:
 
-```bash
+2.Install dependencies:
 npm install
 
-3.Tambahkan .env:
 
-```env
+3.Tambahkan .env:
 MONGO_URI=your_mongodb_uri
 PORT=5000
 
 4.Run server:
-
-```bash
 npm run dev
 
 ---
 
 ## Preview
 
-Postman Test	Struktur Folder
-![Preview](assets/post_request.PNG) 
+<img src="assets/post_request.PNG" width="600" alt="postman test preview"/>
+
+---
 
 
 “Don’t just build code — build systems that feel alive.”
