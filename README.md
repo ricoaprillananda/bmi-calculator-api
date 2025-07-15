@@ -33,7 +33,7 @@ Built with precision, modular architecture, and a touch of elegance
   "height": 1.7
 }
 
-**Response:**
+Response:
 ```json
 {
   "bmi": "22.86",
@@ -79,8 +79,10 @@ npm run dev
 ---
 
 ## Preview
-Postman Test	Struktur Folder
-<img src="assets/post_request.PNG" width="300"/>	<img src="assets/project_structure.PNG" width="300"/>
+
+| Postman Test                                     | Struktur Folder                                       |
+| ------------------------------------------------ | ----------------------------------------------------- |
+| <img src="assets/post_request.PNG" width="300"/> | <img src="assets/project_structure.PNG" width="300"/> |
 
 
 “Don’t just build code — build systems that feel alive.”
