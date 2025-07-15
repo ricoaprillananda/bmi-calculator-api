@@ -27,19 +27,16 @@ Built with precision, modular architecture, and a touch of elegance
 ### POST `/api/bmi`
 
 **Request Body (JSON):**
-```json
 {
   "weight": 70,
   "height": 1.7
 }
 
-**Response::**
-```json
+**Response (json):**
 {
   "bmi": "22.86",
   "category": "Normal weight"
 }
-
 
 ---
 
@@ -80,9 +77,8 @@ npm run dev
 
 ## Preview
 
-| Postman Test                                     | Struktur Folder                                       |
-| ------------------------------------------------ | ----------------------------------------------------- |
-| <img src="assets/post_request.PNG" width="300"/> | <img src="assets/project_structure.PNG" width="300"/> |
+Postman Test	Struktur Folder
+<img src="assets/post_request.PNG" width="300"/>	<img src="assets/project_structure.PNG" width="300"/>
 
 
 “Don’t just build code — build systems that feel alive.”
