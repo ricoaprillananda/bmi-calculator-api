@@ -52,20 +52,28 @@ Built with precision, modular architecture, and a touch of elegance
 ## Run Locally
 
 1.Clone repo:
+```
 git clone https://github.com/ricoaprillananda/bmi-calculator-api.git
 cd bmi-calculator-api
+```
 
 
 2.Install dependencies:
+```
 npm install
+```
 
 
 3.Tambahkan .env:
+```
 MONGO_URI=your_mongodb_uri
 PORT=5000
+```
 
 4.Run server:
+```
 npm run dev
+```
 
 ---
 
