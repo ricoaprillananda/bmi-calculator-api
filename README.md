@@ -84,4 +84,6 @@ Coded with elegance, clarity, and intention 🍃:
 
 ---
 
+philosophy
+
 **“Don’t just build code — build systems that feel alive.”**
